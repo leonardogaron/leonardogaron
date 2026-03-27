@@ -23,9 +23,3 @@ Acredito que a melhor forma de aprender é **construindo**, e é por isso que es
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/leonardo-garon-1b6821324/)
 - E-mail: leonardooliveiragaron@gmail.com
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleonardogaron&show_icons=true&theme=dark)
